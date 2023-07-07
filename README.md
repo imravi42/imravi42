@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @imravi42
 - 👀 I’m interested in coding in Apex, JavaScript, Java, SOQL, SOSL, Aura Component and Lightning Web Component.
-- 🌱 I’m currently Working as a Salesforce Developer
+- 🌱 I’m a Salesforce Certified Developer
 - 💞️ I’m looking to collaborate on Salesforce Development.
-- 📫 Reach me at https://www.linkedin.com/in/ravi-prakash-gupta-93a3b0162/
+- 📫 Reach me at LinkedIn https://www.linkedin.com/in/imrpg2024/
+- 📫 Reach me at Twitter https://twitter.com/ravi_sfdc
+- 📫 Reach me at Thread by Meta https://twitter.com/ravi_sfdc
 
 <!---
 imravi42/imravi42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
